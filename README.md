@@ -2,7 +2,7 @@
 
 ## Avoid Out of Memory reading huge TEXT files.
 
-In order to run this project, use the command below:
+In order to run this project, use the command below. The result will be shown on console.
 
 ```
 mvnw clean install spring-boot:run
